@@ -21,16 +21,16 @@ Follow these steps to set up the development environment:
 
 1. Change into the frontend directory:
 
-cd frontend
+`cd frontend`
 
 
 2. Install dependencies:
 
-npm install
+`npm install`
 
 3. Start the development server:
 
-npm start
+`npm start`
 
 4. Open your browser and navigate to [http://localhost:3000](http://localhost:3000).
 
@@ -38,23 +38,20 @@ npm start
 
 1. Change into the backend directory:
 
-cd backend
+`cd backend`
 
 2. Install dependencies:
 
-npm install
+`npm install`
 
 3. Create a `.env` file in the `backend` directory and add your MongoDB connection string:
 
-MONGODB_URI=<your_mongodb_connection_string>
+`MONGODB_URI=<your_mongodb_connection_string>`
 
 
 4. Start the development server:
 
-npm start
-
-csharp
-Copy code
+`npm start`
 
 5. The backend server will be running on [http://localhost:5000](http://localhost:5000).
 

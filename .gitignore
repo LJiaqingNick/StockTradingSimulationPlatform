@@ -1,0 +1,13 @@
+# General
+node_modules/
+*.log
+*.env
+.DS_Store
+.vscode/
+
+# Frontend (React)
+frontend/build/
+frontend/.eslintcache
+
+# Backend (Node.js)
+backend/dist/
