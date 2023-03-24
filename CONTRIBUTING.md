@@ -10,7 +10,7 @@ By participating in this project, you are expected to uphold our [Code of Conduc
 
 If you find a bug or issue with the project, please follow these steps to report it:
 
-1. Check the [Issues](https://https://github.com/LJiaqingNick/StockTradingSimulationPlatform/issues) page to see if the bug has already been reported. If it has, please add any additional information in the comments of the existing issue.
+1. Check the [Issues](https://github.com/LJiaqingNick/StockTradingSimulationPlatform/issues) page to see if the bug has already been reported. If it has, please add any additional information in the comments of the existing issue.
 
 2. If the bug has not been reported, create a new issue and provide a clear and concise description of the bug, including steps to reproduce, the expected behavior, and the actual behavior. Include any relevant screenshots or logs if applicable.
 
@@ -18,7 +18,7 @@ If you find a bug or issue with the project, please follow these steps to report
 
 If you have an idea for a new feature or improvement, please follow these steps to suggest it:
 
-1. Check the [Issues](https://https://github.com/LJiaqingNick/StockTradingSimulationPlatform/issues) page to see if the feature has already been suggested. If it has, please add any additional information or show your support in the comments of the existing issue.
+1. Check the [Issues](https://github.com/LJiaqingNick/StockTradingSimulationPlatform/issues) page to see if the feature has already been suggested. If it has, please add any additional information or show your support in the comments of the existing issue.
 
 2. If the feature has not been suggested, create a new issue and provide a clear and concise description of the feature, explaining the benefits and potential use cases.
 
